@@ -50,4 +50,21 @@ body {
 
     }
 
+    .characters {
+  display: table;
+  width: 25%;
+  margin: 20px auto;
+}
+
+.characters_cont a {
+  display: table-cell;
+  text-align: center;
+  width: 16%;
+}
+
+.characters_cont img {
+  width: 100%;
+  max-width: 150px;
+}
+
 
