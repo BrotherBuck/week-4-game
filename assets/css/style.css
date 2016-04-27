@@ -10,47 +10,36 @@ header {
 	font-size: 50px;
 }
 
-	.yourCharacter {
-			background: #4d4d4d;
-			color: #fff;
-			opacity: .75;
+.topContainer
+	{
+		padding: 30px;
+
 
 	}
+
+	
+
 
 	.characterWrapper {
 		width: 100%;
-	}
-
-	.characters {
-		width: 25%;
-		float: left;
-		 }
-
-	
-	.characters h3 {
-		border-bottom: 0;
-		background: #4d4d4d;
-		color: #fff;
-		opacity: .75;
-		text-align: center;
-		position: relative;
-		padding: 5px;
-		width: 25%;
-		bottom: 0px;
-		line-height: 10px;
-		margin-bottom: 0;
-		font-weight: 300;
-	}
-
-	.availableToAttackWrapper  {
-		width: 100%;
 		
-
-
 	}
+			/*.buttonBoba {
+				
+				background: #4d4d4d;
+				color: #fff;
+				opacity: .75;
+				text-align: center;
+				position: center;
+				padding: 30px;
+				width: 15%;
+				
+				line-height: 10px;
+				margin-bottom: 0;
+				font-weight: 100;
+				float: left;
+*/
+			
 
-
-.btn {
-		width: 10%;
-		float: left;
-		 }
+					
+}
