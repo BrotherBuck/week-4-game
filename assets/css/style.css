@@ -10,6 +10,13 @@ header {
 	font-size: 50px;
 }
 
+	.yourCharacter {
+			background: #4d4d4d;
+			color: #fff;
+			opacity: .75;
+
+	}
+
 	.characterWrapper {
 		width: 100%;
 	}
@@ -19,11 +26,7 @@ header {
 		float: left;
 		 }
 
-	.characters img {
-		width: 40%;
-		border: 0 none;	
-		
-	}
+	
 	.characters h3 {
 		border-bottom: 0;
 		background: #4d4d4d;
@@ -39,7 +42,12 @@ header {
 		font-weight: 300;
 	}
 
+	.availableToAttackWrapper  {
+		width: 100%;
+		
 
+
+	}
 
 
 .btn {
